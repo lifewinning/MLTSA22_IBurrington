@@ -1,0 +1,1 @@
+Added this readme late, my bad, with exception of questions asked on class Slack worked on this myself. Feel like I was OK on handling learning about the dataset but going from the very lightweight GP intro to the examples from the demo was a bit confusing in that I feel lke I don't fully understand the model you recommended we use. 
