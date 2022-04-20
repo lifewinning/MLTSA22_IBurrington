@@ -1,1 +1,1 @@
-Done by myself; feel like this was either a trick question assignment and what I did was fine or I totally overthought it and was supposed to do something else. 
+Done by myself with a lot of internetting; I feel like I'm kind of drowning here but trying my best.
