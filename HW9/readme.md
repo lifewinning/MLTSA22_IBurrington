@@ -1,0 +1,1 @@
+Did this assignment solo; I wrote this in the notebook but also putting here: overall, I'm pretty impressed with the autoencoder's accuracy, but I don't really know if it tells me very much about the PLAsTiCC data because the interpolation and structuring of my data feels like such an abstraction from the original dataset. 
