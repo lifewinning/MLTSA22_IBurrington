@@ -1,0 +1,1 @@
+Worked on this solo; I learned that clustering can be an effective way to identify different patterns in data but still requires some domain understanding of what's in the data (I wouldn't have known what to make of some of the clusters if I didn't know basic world history). 
